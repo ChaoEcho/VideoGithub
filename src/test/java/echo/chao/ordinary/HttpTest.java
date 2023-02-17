@@ -1,5 +1,6 @@
 package echo.chao.ordinary;
 
+import kong.unirest.HttpRequest;
 import kong.unirest.Unirest;
 import org.springframework.boot.test.context.SpringBootTest;
 
