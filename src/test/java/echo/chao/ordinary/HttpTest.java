@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 /**
  * Created by EchoChao on 2023/2/16 17:38
+ * 测试java17自带的网络请求库，感觉不咋地，可以直接使用Unirest
  */
 @SpringBootTest
 public class HttpTest {
